@@ -1,6 +1,6 @@
 <h2 align="center">MrWindDog</h2>
 
-[![MrWindDog's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrWindDog&theme=midnight-purple)](https://github.com/MrWindDog/github-readme-stats)
+[![MrWindDog's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrWindDog&theme=midnight-purple)](https://github.com/MrWindDog/MrWindDog)
 
 <img src="https://count.getloli.com/@MrWindDog?name=MrWindDog&theme=booru-helltaker&darkmode=auto"/>
 
