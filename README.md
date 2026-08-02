@@ -4,4 +4,8 @@
 
 <hr>
 
-A developer and programmer who has no idea what to do with his life
+<h3>Most of my repositories are moving to my own git site, which is private for now.</h3>
+
+<br>
+
+A developer and programmer who has no idea what to do with his life.
